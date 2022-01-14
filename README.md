@@ -1,3 +1,6 @@
+# Tutorial Code
+This is my code from following the [freeCodeCamp ReactJS tutorial](https://www.youtube.com/watch?v=nTeuhbP7wdE&t=4127s).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
